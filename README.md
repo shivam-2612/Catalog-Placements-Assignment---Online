@@ -26,19 +26,13 @@ If Node.js is not already installed, you can download and install it from [here]
 
 To execute the solution:
 
-1. Navigate to the directory where the files are located:
-
-   ```bash
-   cd path/to/PolynomialAssignmentSolution
-   ```
-
-2. Run the solution using Node.js:
+1. Run the solution using Node.js:
 
    ```bash
    node index.js
    ```
 
-3. The script will read from the `testcase.json` file and print the result in the console.
+2. The script will read from the `testcase.json` file and print the result in the console.
 
 ### 4. Modify Input
 
