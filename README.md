@@ -44,3 +44,7 @@ To execute the solution:
 
 - You can modify the `testcase.json` or `testcase2.json` files to test with different inputs.
 - Ensure the JSON format is valid and matches the expected input structure.
+
+## Output for Testcases:
+
+![output](https://github.com/user-attachments/assets/541ba216-ace2-4b6a-9053-682cd9d4b190)
